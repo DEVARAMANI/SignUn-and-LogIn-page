@@ -1,0 +1,29 @@
+.main {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-content: center;
+    padding: auto auto ;
+    margin: 11% auto;
+}
+
+#contain {
+    margin: auto auto;
+    border: 3px solid rgb(152, 151, 151); 
+    border-radius:3% ;
+    padding: 1px 18px;
+}
+
+h1{
+    font-weight: bold;
+}
+
+#signin{
+    margin: 12px auto;
+}
+
+.link{
+    float: right;
+    margin: 6px -1px 4px -1px;
+      
+}
